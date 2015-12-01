@@ -1,2 +1,4 @@
 /data/*
 *.smf
+*_checkpoints/*
+test*
