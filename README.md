@@ -29,3 +29,4 @@ Want to learn more? [Visit our website](http://realbogus.weebly.com/) or [watch 
   * pydot2
 * Other:
   * graphviz (available on Homebrew with:brew install graphviz)
+  * graphviz (available on Homebrew with:brew install graphviz)
